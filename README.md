@@ -25,4 +25,19 @@ Criei um algoritmo simples de transferência bancária para exercer o pensamento
 - Objetos do mesmo tipo
 - Itens são chamados de elementos
 
-![int](https://user-images.githubusercontent.com/72028645/130852247-130f05d9-a896-4ac9-8def-67520b3c75e0.png)
+>int[] numeros;
+
+Determinar a quantidade:
+>int[] numeros = new int[15];
+
+Elementos do vetor:
+>int[] numeros = new int[] {0, 1, 2, 3, 4, 5};
+
+## Collections
+- Arrays são usados quando o tamanho da coleção é conhecida 
+- Quando não sabemos o tamanho ou os elementos que podem ser adicionados/removidos durante a execução usamos as collections
+>using System.Collections.Generic;
+
+## List<T>
+- É a coleção mais comum é C#, onde T é a classe dos objetos que serão os elementos da lista/coleção
+- [Documentação](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
