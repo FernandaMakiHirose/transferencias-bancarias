@@ -6,6 +6,13 @@ Criei um algoritmo simples de transferência bancária para exercer o pensamento
 - Conhecimento básico em OO
 - Conhecimento básico de .NET
 
+## Comandos
+Criei o projeto:
+>dotnet new console -n DIO.Bank
+
+Executar:
+>dotnet run
+
 ## Procedural
 - Criar código rapidamente
 - Mais difícil para manter (manualmente)
