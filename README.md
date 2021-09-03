@@ -6,6 +6,9 @@ Criei um algoritmo simples de transferência bancária para exercer o pensamento
 - Conhecimento básico em OO
 - Conhecimento básico de .NET
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Criei o projeto:
 >dotnet new console -n DIO.Bank
